@@ -77,7 +77,7 @@ Focuses specifically on employees who left the company:
 - Attrition tends to increase as **distance from home** increases
 - Certain job roles and departments experience **higher turnover**
 ---
-Data Source: IBM HR Analytics Employee Attrition & Performance
----
+## Data Source: IBM HR Analytics Employee Attrition & Performance
 
-Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+## Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
