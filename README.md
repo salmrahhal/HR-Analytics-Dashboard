@@ -2,9 +2,9 @@
 
 ##  Project Overview
 This project presents an **HR Analytics Dashboard** focused on **Employee Attrition Analysis**.  
-The goal is to help HR teams and decision-makers understand **why employees leave**, identify **risk factors**, and support **data-driven retention strategies**.
+The main purpose of this project is to help HR to understand **why employees leave**
 
-The dashboard is built using **Tableau** and covers both **overall workforce insights** and **attrition-specific analysis**.
+The dashboard is built using **Tableau** and covers both the dashboard presents general employee information and insights about employees who left the company.
 
 ---
 
