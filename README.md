@@ -9,9 +9,8 @@ The dashboard is built using **Tableau** and covers both **overall workforce ins
 ---
 
 ##  Tools & Technologies
-- **Tableau** – Data visualization and dashboard design
 - **Excel / CSV Dataset** – Data source
-  
+- **Tableau** – Data visualization and dashboard design  
 ---
 
 ##  Dashboards Included
@@ -60,21 +59,7 @@ Focuses specifically on employees who left the company:
 
 ---
 
-##  Key Analyses Performed
-- **Attrition by Overtime** (Yes vs No)
-- **Attrition by Job Satisfaction Level (1–4)**
-- **Attrition by Environment Satisfaction**
-- **Attrition by Work-Life Balance**
-- **Attrition vs Distance From Home** (using bins and trend lines)
-- **Attrition by Job Role and Job Level**
-
----
-
-
-
----
-
-##  Key Insights (Example)
+##  Key Insights
 - Employees working overtime show a **higher attrition rate**
 - Lower satisfaction levels (1–2) are associated with **higher attrition**
 - Attrition tends to increase as **distance from home** increases
