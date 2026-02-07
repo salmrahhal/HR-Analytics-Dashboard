@@ -60,8 +60,6 @@ Focuses specifically on employees who left the company:
 ##  Key Insights
 - Employees working overtime show a **higher attrition rate**
 - Lower satisfaction levels (1–2) are associated with **higher attrition**
-- Attrition tends to increase as **distance from home** increases
-- Certain job roles and departments experience **higher turnover**
   
 
 ### Data Source: IBM HR Analytics Employee Attrition & Performance
