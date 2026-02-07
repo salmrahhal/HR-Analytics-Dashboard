@@ -5,13 +5,12 @@ This project presents an **HR Analytics Dashboard** focused on **Employee Attrit
 The goal is to help HR teams and decision-makers understand **why employees leave**, identify **risk factors**, and support **data-driven retention strategies**.
 
 The dashboard is built using **Tableau** and covers both **overall workforce insights** and **attrition-specific analysis**.
-
 ---
 
 ##  Tools & Technologies
 - **Excel / CSV Dataset** – Data source
-- **Tableau** – Data visualization and dashboard design  
----
+- **Tableau** – Data visualization and dashboard design
+  
 
 ##  Dashboards Included
 
@@ -36,7 +35,6 @@ Provides a high-level snapshot of the workforce:
  *Overview Dashboard*
 ![Overview Dashboard](overview.png)
 
----
 
 ###  Attrition Dashboard
 Focuses specifically on employees who left the company:
@@ -57,7 +55,6 @@ Focuses specifically on employees who left the company:
 *Attrition Dashboard*
 ![Attrition Dashboard](attrition.png)
 
----
 
 ##  Key Insights
 - Employees working overtime show a **higher attrition rate**
@@ -65,7 +62,6 @@ Focuses specifically on employees who left the company:
 - Attrition tends to increase as **distance from home** increases
 - Certain job roles and departments experience **higher turnover**
   
----
 
 ## Data Source: IBM HR Analytics Employee Attrition & Performance
 
