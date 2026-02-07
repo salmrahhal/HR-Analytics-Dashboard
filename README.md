@@ -8,6 +8,12 @@ The dashboard is built using **Tableau** and covers both **overall workforce ins
 
 ---
 
+##  Tools & Technologies
+- **Tableau** – Data visualization and dashboard design
+- **Excel / CSV Dataset** – Data source
+  
+---
+
 ##  Dashboards Included
 
 ###  Overview Dashboard
@@ -64,10 +70,7 @@ Focuses specifically on employees who left the company:
 
 ---
 
-##  Tools & Technologies
-- **Tableau** – Data visualization and dashboard design
-- **Excel / CSV Dataset** – Data source
-- **GitHub** – Version control and project sharing
+
 
 ---
 
@@ -76,8 +79,9 @@ Focuses specifically on employees who left the company:
 - Lower satisfaction levels (1–2) are associated with **higher attrition**
 - Attrition tends to increase as **distance from home** increases
 - Certain job roles and departments experience **higher turnover**
+  
 ---
-## Data Source: IBM HR Analytics Employee Attrition & Performance
 
+## Data Source: IBM HR Analytics Employee Attrition & Performance
 
 ## Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
