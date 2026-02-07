@@ -5,6 +5,7 @@ This project presents an **HR Analytics Dashboard** focused on **Employee Attrit
 The goal is to help HR teams and decision-makers understand **why employees leave**, identify **risk factors**, and support **data-driven retention strategies**.
 
 The dashboard is built using **Tableau** and covers both **overall workforce insights** and **attrition-specific analysis**.
+
 ---
 
 ##  Tools & Technologies
@@ -63,6 +64,6 @@ Focuses specifically on employees who left the company:
 - Certain job roles and departments experience **higher turnover**
   
 
-## Data Source: IBM HR Analytics Employee Attrition & Performance
+### Data Source: IBM HR Analytics Employee Attrition & Performance
 
-## Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+### Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
