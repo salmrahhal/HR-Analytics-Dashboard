@@ -1,6 +1,6 @@
-# HR Attrition Analysis Dashboard 📊
+# HR Attrition Analysis Dashboard 
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an **HR Analytics Dashboard** focused on **Employee Attrition Analysis**.  
 The goal is to help HR teams and decision-makers understand **why employees leave**, identify **risk factors**, and support **data-driven retention strategies**.
 
