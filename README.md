@@ -9,7 +9,7 @@ The dashboard is built using **Tableau** and covers both the dashboard presents 
 ---
 
 ##  Tools & Technologies
-- **Excel / CSV Dataset** – Data source
+- **CSV Dataset** – Data source
 - **Tableau** – Data visualization and dashboard design
   
 
